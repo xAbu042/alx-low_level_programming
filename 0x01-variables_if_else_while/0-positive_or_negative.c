@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Determines whether n*i,
- * is positive, negative or 0
- * return :0 if exited properly, non-zero otherwise
+ * main - assigns a random number to int n everytime,
+ * it is executed and returns its status
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
