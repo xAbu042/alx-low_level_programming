@@ -5,11 +5,11 @@
  * followed by a new line
  * Return: Always 0 (Successful)
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char k;
 
-	char = 'a';
+	k = 'a';
 
 	while (k <= 'z')
 	{
