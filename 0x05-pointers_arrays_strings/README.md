@@ -19,3 +19,5 @@ File 7-puts_half.c - Function that prints half of a string, followed by a new li
 File 8-print_array.c - Function that prints n elements of an array of integers, followed by a new line
 
 File 9-strcpy.c - Function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+
+File 100-atoi.c - Function to convert a string to an integer
