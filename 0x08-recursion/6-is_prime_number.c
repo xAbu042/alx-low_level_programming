@@ -3,7 +3,7 @@
 int find_prime(int a, int b);
 
 /**
- * _is_prime_number - says if a number is a prime number
+ * is_prime_number - says if a number is a prime number
  * or not
  * @n: number to evaluate
  * Return: 1 if n is prime, 0 otherwise
