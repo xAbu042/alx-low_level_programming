@@ -3,6 +3,7 @@
 /**
  * sum_dlistint - Returns the sum of all the data(n)
  * of a dlsitint_t linked list
+ * @head: pointer to the linked list
  * Return: sum of all the data
  * 0 if list is empty
  **/
